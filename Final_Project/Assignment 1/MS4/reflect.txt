@@ -1,0 +1,9 @@
+Name: Damirkhon Yodgorov
+Student Id: 108364175
+
+Answers:
+
+1. We used Contact structure in order to demonstrate that structure can store self defined data,  not only
+primitive data types.
+2. The most difficult part of this assignment was referencing structures to the structure pointers.
+3. To be honest, milestone 4 took quite a lot of my time. I spent around 2 days working on milestone 4.
