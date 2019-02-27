@@ -1,0 +1,12 @@
+Name: Damirkhon Yodgorov
+Student Id: 108364175
+
+Answers:
+=>All iteration constructs in C programming language are: For loop, while loop and do while loop.
+=>Difference between (while loop) and (do while loops) is that (do while loop) will execute a statement before
+checking the condition at least once , while at the same time (while loop) will first check the conditions than
+if the condition is true it will execute the consecutive statements.
+=>Conditional operators are used to evaluate a condition that's applied to one or two boolean expressions. 
+The result of the evaluation is either true or false. Conditional operators are: && the logical AND operator, || the logical OR operator.
+&&->Both statements must be TRUE.
+||-> One TRUE statement is enough to perform a task.

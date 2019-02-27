@@ -1,0 +1,10 @@
+
+In line number 6 of your output:
+The output should be:
+Enter the low value for day 1: -2
+But your output is: 
+Enter the low value for day 1: ^C
+                               ^
+-------------------------------|
+Professor's character ASCII code: hex(2d), dec(45)
+un-matched character ASCII code: hex(5e), dec(94)
