@@ -1,0 +1,21 @@
+name: Damirkhon Yodgorov
+student id: 108364175
+seneca email: dyodgorov@myseneca.ca
+
+Answers:
+=>We declared arrays to have 10 elements, because maximum number of days was 10.
+That was the reason why I declared my arrays to hold 10 elements.
+=> Advantages are: arrays can hold multiple elements of the same type. In other words we can 
+assign multiple elements of the same type to a single array.
+Disadvantage: We must know in advance how many elements are to be stored in an array.And
+sometimes not all elements of an arrays are occupied with the value and that is why 
+we can waste resources of our memory.
+=>At home section of this workshop was a little bit tricky, because we had to use multiple 
+loops in our program. First do while loop was used to get value of up to how many days we have to
+find the average temperature. Second for loop was used to find sum of temperatures of certain
+number of days which was requested by the user.
+
+Quiz 2 Reflection:
+
+=> In question number 11 my answer was incomplete because I did say that loop was infinite. 
+So loop in question 11 of quiz 2 was infinite loop. 
