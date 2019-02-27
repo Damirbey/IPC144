@@ -1,0 +1,9 @@
+Script started on Sat 21 Jan 2017 10:31:16 PM EST
+Obi-Wan.Kenobi@matrix:~/ipc144/WS2/in_lab> ws
+Please enter the amount to be paid: $8.68
+Loonies required: 8, balance owing $0.68
+Quarters required: 2, balance owing $0.18
+Obi-Wan.Kenobi@matrix:~/ipc144//WS2/in_lab> exit
+exit
+
+Script done on Sat 21 Jan 2017 10:31:54 PM EST

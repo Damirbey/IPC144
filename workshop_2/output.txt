@@ -1,0 +1,9 @@
+Script started on Wed 20 Sep 2017 11:38:21 AM EDT
+dyodgorov@matrix:~/w2> ws
+Please enter the amount to be paid: $8.68
+Loonies required: 8, balance owing $0.68
+Quarters required: 2, balance owing $0.18
+dyodgorov@matrix:~/w2> exit
+exit
+
+Script done on Wed 20 Sep 2017 11:38:28 AM EDT
