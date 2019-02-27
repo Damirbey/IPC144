@@ -1,0 +1,20 @@
+Name: Damirkhon Yodgorov	
+Student Id: 108364175
+
+Answers:
+=>You can use an array to hold many objects of struct type instead of creating a single
+object everytime. But you can never substitute a struct for an array and vise versa, 
+an array can hold multiple objects of struct type.
+=>We declare our struct in the header file in order to use the same struct in different 
+source codes. In other words , it is convenient to declare the struct in a seperate file
+so that it can be included as a library in a different pages.
+
+
+==Quiz 3 Reflection==
+
+Question 4:
+=>The correct answer to create an array and initialize it to 'a','b','c' and 'd' is
+char letters[4]={'a','b','c','d'};
+Question 6:
+=> Difference between a character array and a String in C are almost the same,
+though a string will have an additional null character at the end. 
