@@ -1,0 +1,9 @@
+Name: Damirkhon
+Surname : Yodgorov
+Student Id: 108364175
+
+
+=> In this workshop 1, I learned how to create a simple C program that displays a text to a user.
+In addition , I got familiar with remote server "Matrix" and learned how to transfer my files from a local machine to a Matrix.
+On the other hand, exercises that were provided were very useful to get familiar with the "\n"-> new line character which is very important when dealing with displaying a text.
+Thank you very much.

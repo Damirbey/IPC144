@@ -1,0 +1,10 @@
+
+In line number 2 of your output:
+The output should be:
+** Welcome to C Programming **
+But your output is: 
+** Welcome to C programming **
+                ^
+----------------|
+Professor's character ASCII code: hex(50), dec(80)
+un-matched character ASCII code: hex(70), dec(112)
